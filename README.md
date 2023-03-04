@@ -1,4 +1,4 @@
-画像をコピペ
+<img width="1393" alt="image" src="https://user-images.githubusercontent.com/99580997/222886486-5776d725-b688-479d-9971-9ac73c9868f8.png">
 
 # compornent（共通部品）
 - bodyに100svhを設定した場合。
